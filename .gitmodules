@@ -19,3 +19,6 @@
 [submodule "SET"]
 	path = SET
 	url = https://github.com/trustedsec/social-engineer-toolkit
+[submodule "scapy"]
+	path = scapy
+	url = https://github.com/secdev/scapy.git
