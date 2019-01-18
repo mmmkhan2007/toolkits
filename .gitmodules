@@ -13,3 +13,6 @@
 [submodule "TheFatRat"]
 	path = TheFatRat
 	url = https://github.com/Screetsec/TheFatRat.git
+[submodule "lscript"]
+	path = lscript
+	url = https://github.com/arismelachroinos/lscript.git
