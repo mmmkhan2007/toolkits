@@ -7,3 +7,6 @@
 [submodule "xerosploit"]
 	path = xerosploit
 	url = https://github.com/LionSec/xerosploit.git
+[submodule "Sn1per"]
+	path = Sn1per
+	url = https://github.com/1N3/Sn1per.git
