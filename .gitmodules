@@ -16,3 +16,6 @@
 [submodule "lscript"]
 	path = lscript
 	url = https://github.com/arismelachroinos/lscript.git
+[submodule "SET"]
+	path = SET
+	url = https://github.com/trustedsec/social-engineer-toolkit
