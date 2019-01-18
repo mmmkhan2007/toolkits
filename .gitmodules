@@ -4,3 +4,6 @@
 [submodule "badKarma"]
 	path = badKarma
 	url = https://github.com/r3vn/badKarma.git
+[submodule "xerosploit"]
+	path = xerosploit
+	url = https://github.com/LionSec/xerosploit.git
