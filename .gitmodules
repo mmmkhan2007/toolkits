@@ -10,3 +10,6 @@
 [submodule "Sn1per"]
 	path = Sn1per
 	url = https://github.com/1N3/Sn1per.git
+[submodule "TheFatRat"]
+	path = TheFatRat
+	url = https://github.com/Screetsec/TheFatRat.git
