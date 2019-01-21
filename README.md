@@ -7,3 +7,4 @@
 * LAZY script
 * Scapy
 * Xerosploit
+* Wfw script
