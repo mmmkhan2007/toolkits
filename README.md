@@ -9,6 +9,7 @@
 * Xerosploit
 * Wfw script
 * BeeLogger
+* EternalBlue_DoublePulsar script
 ```
 cd tookits/
 git submodule init
