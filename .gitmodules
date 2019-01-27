@@ -22,3 +22,6 @@
 [submodule "scapy"]
 	path = scapy
 	url = https://github.com/secdev/scapy.git
+[submodule "BeeLogger"]
+	path = BeeLogger
+	url = https://github.com/4w4k3/BeeLogger
