@@ -8,3 +8,9 @@
 * Scapy
 * Xerosploit
 * Wfw script
+* BeeLogger
+```
+cd tookits/
+git submodule init
+git submodule update
+```
