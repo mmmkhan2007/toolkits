@@ -9,6 +9,7 @@
 * Xerosploit
 * Wfw script
 * BeeLogger
+* RouterSploit
 * EternalBlue_DoublePulsar script
 ```
 cd tookits/
