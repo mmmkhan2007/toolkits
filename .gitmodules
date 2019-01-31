@@ -27,4 +27,4 @@
 	url = https://github.com/4w4k3/BeeLogger
 [submodule "RouterSploit"]
 	path = RouterSploit
-	url = https://github.com/threat9/routersploit
+	url = https://github.com/threat9/routersploit.git
