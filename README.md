@@ -12,6 +12,7 @@
 * RouterSploit
 * EternalBlue_DoublePulsar script
 ```
+git clone https://github.com/TomasGlgg/toolkits
 cd tookits/
 git submodule init
 git submodule update
