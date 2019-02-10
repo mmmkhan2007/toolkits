@@ -28,3 +28,6 @@
 [submodule "RouterSploit"]
 	path = RouterSploit
 	url = https://github.com/threat9/routersploit.git
+[submodule "fluxion"]
+	path = fluxion
+	url = https://github.com/FluxionNetwork/fluxion
