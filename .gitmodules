@@ -31,3 +31,6 @@
 [submodule "fluxion"]
 	path = fluxion
 	url = https://github.com/FluxionNetwork/fluxion
+[submodule "enumeration"]
+	path = enumeration
+	url = https://github.com/TomasGlgg/enumeration
