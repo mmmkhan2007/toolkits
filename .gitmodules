@@ -1,6 +1,6 @@
 [submodule "RC-exploiter"]
 	path = RC-exploiter
-	url = git@github.com:TomasGlgg/RC-exploiter.git
+	url = https://github.com/TomasGlgg/RC-exploiter.git
 [submodule "badKarma"]
 	path = badKarma
 	url = https://github.com/r3vn/badKarma.git
