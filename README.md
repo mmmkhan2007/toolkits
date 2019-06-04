@@ -17,7 +17,7 @@
 
 Install:
 ```
-git clone https://github.com/TomasGlgg/toolkits
+git clone --recursive https://github.com/TomasGlgg/toolkits
 cd toolkits/
 git submodule init
 git submodule update
