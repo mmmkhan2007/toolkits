@@ -13,6 +13,7 @@
 * EternalBlue_DoublePulsar script
 * Enumeration
 * WiFi-Pumpkin
+* pupy
 
 Install:
 ```
