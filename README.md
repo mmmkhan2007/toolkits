@@ -13,9 +13,11 @@
 * EternalBlue_DoublePulsar script
 * Enumeration
 * WiFi-Pumpkin
+
+Install:
 ```
 git clone https://github.com/TomasGlgg/toolkits
-cd tookits/
+cd toolkits/
 git submodule init
 git submodule update
 ```
