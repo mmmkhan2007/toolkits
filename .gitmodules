@@ -40,3 +40,6 @@
 [submodule "pupy"]
 	path = pupy
 	url = https://github.com/n1nj4sec/pupy.git
+[submodule "Empire"]
+	path = Empire
+	url = https://github.com/EmpireProject/Empire.git
