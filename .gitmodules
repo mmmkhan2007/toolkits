@@ -43,3 +43,9 @@
 [submodule "Empire"]
 	path = Empire
 	url = https://github.com/EmpireProject/Empire.git
+[submodule "airgeddon"]
+	path = airgeddon
+	url = https://github.com/v1s1t0r1sh3r3/airgeddon.git
+[submodule "PhoneInfoga"]
+	path = PhoneInfoga
+	url = https://github.com/sundowndev/PhoneInfoga
