@@ -1,4 +1,6 @@
 # Toolkits
+* Airgeddon
+* Boop Suite
 * RC-EXPLOITER 
 * The Social-Engineer Toolkit (SET)
 * SN1PER
@@ -12,8 +14,12 @@
 * RouterSploit
 * EternalBlue_DoublePulsar script
 * Enumeration
+* Empire
 * WiFi-Pumpkin
 * pupy
+* PhoneInfoga
+* mdk4
+* PytheM
 
 Install:
 ```
