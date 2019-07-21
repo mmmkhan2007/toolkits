@@ -55,3 +55,6 @@
 [submodule "PytheM"]
 	path = PytheM
 	url = https://github.com/m4n3dw0lf/PytheM.git
+[submodule "BoopSuite"]
+	path = BoopSuite
+	url = https://github.com/M1ND-B3ND3R/BoopSuite.git
