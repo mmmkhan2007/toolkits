@@ -52,3 +52,6 @@
 [submodule "mdk4"]
 	path = mdk4
 	url = https://github.com/aircrack-ng/mdk4.git
+[submodule "PytheM"]
+	path = PytheM
+	url = https://github.com/m4n3dw0lf/PytheM.git
