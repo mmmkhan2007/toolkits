@@ -49,3 +49,6 @@
 [submodule "PhoneInfoga"]
 	path = PhoneInfoga
 	url = https://github.com/sundowndev/PhoneInfoga
+[submodule "mdk4"]
+	path = mdk4
+	url = https://github.com/aircrack-ng/mdk4.git
