@@ -58,3 +58,6 @@
 [submodule "BoopSuite"]
 	path = BoopSuite
 	url = https://github.com/M1ND-B3ND3R/BoopSuite.git
+[submodule "PhoneSploit"]
+	path = PhoneSploit
+	url = https://github.com/metachar/PhoneSploit.git
