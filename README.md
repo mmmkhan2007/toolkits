@@ -20,6 +20,7 @@
 * PhoneInfoga
 * mdk4
 * PytheM
+* PhoneSploit
 
 Install:
 ```
