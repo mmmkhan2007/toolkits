@@ -13,7 +13,6 @@
 * BeeLogger
 * RouterSploit
 * EternalBlue_DoublePulsar script
-* Enumeration
 * Empire
 * WiFi-Pumpkin
 * pupy
